@@ -9,7 +9,7 @@
 
 
 <body background="li.jpg">
-<audio controls autoplay>
+<audio controls autoplay="autoplay">
   <source src="Dj Imut - Dj Snap Rosa Lin One Two Tiktok Remix.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
