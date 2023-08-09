@@ -26,7 +26,7 @@
 <div class="w3-red w3-text-blue w3-card-4">
 <div class="w3-display-container">
 <img src="Safelfar.jpg" style="width:100%" alt="Avatar">
-<div class="w3-display-bottomleft w3-container w3-text-black">
+<div class="w3-display-bottomleft w3-container w3-text-blue">
 <h2>SAFELFAR</h2>
 </div>
 </div>
