@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-<body class="w3-blue">
+<body background="li.jpg">
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1600px;">
