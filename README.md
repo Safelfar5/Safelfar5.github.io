@@ -1,18 +1,10 @@
 <!DOCTYPE html>
-<html>
-<title>PROFILE</title>
 <meta charset="UTF-8">
-<meta SAFELFAR="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel='stylesheet' href='https://badoystudio.com/cloudme.fonts.googleapis.com/css?family=Roboto'>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
-</style>
-<body class="w3-blue">
+<meta SAFELFAR="viewport" content="widt
+<body class="w3-blue"
 
 <!-- Page Container -->
-<div class="w3-content w3-margin-top" style="max-width:1600px;">
+<div class="w3-content w3-margin-top" style="max-width:100%;">
 
 <!-- The Grid -->
 <div class="w3-row-padding">
@@ -22,7 +14,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <div class="w3-red w3-text-blue w3-card-4">
 <div class="w3-display-container">
-<img src="aset/Safelfar.jpg" style="width:100%" alt="Avatar">
+<img src="Safelfar.jpg" style="width:100%" alt="Avatar">
 <div class="w3-display-bottomleft w3-container w3-text-black">
 <h2>SAFELFAR</h2>
 </div>
@@ -102,14 +94,7 @@ happy² aja lah....</p>
 <h5 class="w3-text-black"><b>UNIVERCITY TURATURU</b></h5>
 <h6 class="w3-text-yellow"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2013</h6>
 <p>Mahasiswa UNIVERCITY</p><br>
-</div>
-</div>
 
-<!-- End Right Column -->
-</div>
-
-<!-- End Grid -->
-</div>
 <!-- End Page Container -->
 </div>
 <div class="w3-content w3-margin-top" style="max-width:1300px;">
@@ -121,7 +106,7 @@ happy² aja lah....</p>
 <i class="fa fa-telegram w3-hover-opacity">+6283817779643</i>
 <i class="fa fa-linkedin w3-hover-opacity"></i>
 
-
+<footer class="w3-container w3-red w3-center w3-margin-top">
 <p>Powered by 👉👉<a href="https://www.facebook.com/saf.elfar.3?mibextid=ZbWKwL" target="_blank">safelfar</a>👈👈 click the link</p>
 </footer>
 
@@ -141,10 +126,6 @@ happy² aja lah....</p>
 <hr>
 <hr>
 <footer class="w3-container w3-red w3-center w3-margin-top">
-<p><a href="Cocspedsafliz@gmail.com" target="_blank"><i class="fa fa-google w3-hover-opacity"</i></i></a>   email</p>
 
-<p><a href="link" target="_blank"><i class="fa fa-facebook w3-hover-opacity"</i></i></a>   Facebook</p>
-
-<p><a href="link" target="_blank"><i class="fa fa-history w3-hover-opacity"</i></i></a>   Like</p>
 
 <br>
