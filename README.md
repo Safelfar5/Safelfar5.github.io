@@ -120,7 +120,7 @@ happy² aja lah....</p>
 
 <p>instagram KU 👉👉<a href="https://www.instagram.com/safelfar_05/" target="_blank">safelfar_05</a>👈👈 click the link</p>
 
-<p>whatsapp KU 👉👉<a href="+6283841503658" target="_blank">whatsapp</a>👈👈 click the link</p>
+<p>whatsapp KU 👉👉<a href="https://wa.me/6283841503658" target="_blank">whatsapp</a>👈👈 click the link</p>
 </footer>
 
 <hr>
