@@ -114,12 +114,12 @@ happy² aja lah....</p>
 <i class="fa fa-linkedin w3-hover-opacity"></i>
 
 
-<p>Powered by 👉👉<a href="https://www.facebook.com/saf.elfar.3?mibextid=ZbWKwL" target="_blank">safelfar</a>👈👈 click the link</p>
-</footer>
+<p>FACEBOOK 👉👉<a href="https://www.facebook.com/saf.elfar.3?mibextid=ZbWKwL" target="_blank">safelfar</a>👈👈 click the link</p>
+
 
 
 <p>instagram KU 👉👉<a href="https://www.instagram.com/safelfar_05/" target="_blank">safelfar_05</a>👈👈 click the link</p>
-</footer>
+
 <p>whatsapp KU 👉👉<a href="+6283841503658" target="_blank">whatsapp</a>👈👈 click the link</p>
 </footer>
 
