@@ -1,10 +1,17 @@
-<!DOCTYPE html>
+
+<html>
+
 <meta charset="UTF-8">
-<meta SAFELFAR="viewport" content="widt
-<body class="w3-blue"
+<meta SAFELFAR="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://badoystudio.com/cloudme.fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<body class="w3-blue">
 
 <!-- Page Container -->
-<div class="w3-content w3-margin-top" style="max-width:100%;">
+<div class="w3-content w3-margin-top" style="max-width:1600px;">
 
 <!-- The Grid -->
 <div class="w3-row-padding">
@@ -106,26 +113,16 @@ happy² aja lah....</p>
 <i class="fa fa-telegram w3-hover-opacity">+6283817779643</i>
 <i class="fa fa-linkedin w3-hover-opacity"></i>
 
-<footer class="w3-container w3-red w3-center w3-margin-top">
+
 <p>Powered by 👉👉<a href="https://www.facebook.com/saf.elfar.3?mibextid=ZbWKwL" target="_blank">safelfar</a>👈👈 click the link</p>
 </footer>
 
 
 <p>instagram KU 👉👉<a href="https://www.instagram.com/safelfar_05/" target="_blank">safelfar_05</a>👈👈 click the link</p>
 </footer>
-<hr>
-
-
-<p>wa ku👉👉<a href="wa.me/6283841503658" target="_blank">MY WHATSAPP</a>👈👈 click the link</p>
+<p>whatsapp KU 👉👉<a href="+6283841503658" target="_blank">whatsapp</a>👈👈 click the link</p>
 </footer>
+
 <hr>
 
-<p>EMAIL 👉👉<a href="Cocspedsafliz@gmail.com" target="_blank">EMAIL</a>👈👈 click the link</p>
-</footer>
-<hr>
-<hr>
-<hr>
-<footer class="w3-container w3-red w3-center w3-margin-top">
 
-
-<br>
