@@ -94,7 +94,7 @@ happy² aja lah....</p>
 <div class="w3-container">
 <h5 class="w3-text-black"><b>CODING COMUNITY</b></h5>
 <h6 class="w3-text-yellow"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
-<p>ANGGOTA YG MASIH NUB</p>
+<p>ANGGOTA YG MASIH belajar</p>
 <hr>
 </div>
 <div class="w3-container">
