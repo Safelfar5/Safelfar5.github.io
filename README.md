@@ -8,10 +8,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body class="w3-blue"></body>
 
-<audio controls autoplay="autoplay">
-  <source src="Dj Imut - Dj Snap Rosa Lin One Two Tiktok Remix.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1600px;">
